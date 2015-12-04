@@ -1,2 +1,2 @@
 <?php
-	echo 'Succes!!';
+	echo 'S';
