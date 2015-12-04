@@ -1,3 +1,3 @@
 <?php
-	echo 'no idea';
+	echo 'id';
 
