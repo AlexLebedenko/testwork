@@ -1,3 +1,3 @@
 <?php
-	echo 'should be work !';
+	echo 'no idea';
 
